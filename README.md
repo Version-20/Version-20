@@ -1,6 +1,8 @@
-# Hey, I'm V3RS1ON2.0 👋
+<div align="center">
+  
+  # Hey, I'm V3RS1ON2.0 👋
 
-**BSIT Student @ Cebu Technological University**
+**BSIT Student [CSS2 tesda] [WEBDEV] [Learning back-end]**
 
 ---
 
