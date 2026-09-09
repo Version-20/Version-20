@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Languages, Skills and Tools
 
 
 
